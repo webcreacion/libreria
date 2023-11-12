@@ -1,113 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-        body {
-            font-family: 'arial', sans-serif;
-        }
-        .main {
-            padding: 20px;
-        }
-        h1 {
-            font-size: 4rem;
-            margin-bottom: 20px;
-        }
-        #tabla {
-            border-collapse: collapse;
-            width: 100%;
-            max-width: 500px;
-            margin-top: 20px;
-            position: relative;
-           
-        }
-
-        #tabla th, #tabla td {
-            padding: 12px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-        }
-
-        #tabla thead {
-            background-color: #f2f2f2;
-        }
-
-        #tabla tbody tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-
-        #tabla tbody tr:hover {
-            background-color: #ddd;
-        }
-
-        #filtroAutor, #filtroAutorEvent, #restaurar {
-            margin-bottom: 10px;
-        }
-        input {
-            padding: 4px;
-            border-radius: 5px;
-            box-shadow: 0;
-            border: 1px solid grey;
-        }
-        button {
-            background-color:rgb(40, 151, 237);
-            border: 0;
-            color: white;
-            padding: 4px 10px;
-            border-radius: 3px;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color:rgb(32, 141, 188);
-            transition: .5s;
-        }
-        .container {
-            position: relative;
-            max-width: 550px;
-        }
-        #portada {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            width: 180px;
-            z-index: 100;
-            display: none;
-        }
-
-    </style>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Librería</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="main">
-        <h1>Librería</h1>
-        <input id="filtroAutor" type="text" placeholder="Busca autor">
-        <button id="filtroAutorEvent">Añade filtro</button>
-        <button id="restaurar">Quita filtros</button>
-        <div class="container">
-            <table id="tabla">
-            
-                <thead>
-                    <tr>
-                        <th>Titulo</th>
-                        <th>Autor</th>
-                    </tr>
-                </thead>
-                <tbody id="tablaLibros">
-                    
-                </tbody>
-                <img id="portada" src="https://imagessl1.casadellibro.com/a/l/s5/71/9788439732471.webp" alt="">
-                
-            
-            </table>
-        </div>
-    </div>
-   
-
-    <script type="module" src="./js/main.js"></script>
+	<header>
+		<h1>Librería JavaScript</h1>
+		<p><small>Librería creada por <strong>Daniel Roselló</strong></small></p>
+	</header>
+	<table id="tabla">
+		
+	</table>
+	<script src="./js/main.js"></script>
 </body>
 </html>
