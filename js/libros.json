@@ -1,0 +1,62 @@
+[
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "sinopsis": "La historia de la familia Buendía en el ficticio pueblo de Macondo, explorando temas de amor, soledad y la naturaleza cíclica de la historia.",
+    "portada": "https://imagessl1.casadellibro.com/a/l/s5/71/9788439732471.webp"
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "sinopsis": "En un mundo distópico, el protagonista lucha contra un gobierno totalitario que controla la realidad a través de la manipulación del lenguaje y la vigilancia constante.",
+    "portada": "https://assets-global.website-files.com/6034d7d1f3e0f52c50b2adee/6254291caac6d1e42e8986df_62023ceb41cd1c2807b2841a_9788418933011.jpeg"
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "sinopsis": "La historia de Elizabeth Bennet y su relación con el apuesto pero orgulloso Sr. Darcy, explorando temas de clase, matrimonio y prejuicios sociales en la Inglaterra del siglo XIX.",
+    "portada": "https://www.albaeditorial.es/wp-content/uploads/2020/10/9788484288060-orgullo-y-prejuicio-alba-editorial.jpg"
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "autor": "J.K. Rowling",
+    "sinopsis": "La introducción a la saga de Harry Potter, un joven mago que descubre su identidad mágica y se embarca en una aventura para derrotar al malvado Lord Voldemort.",
+    "portada": "https://images.cdn2.buscalibre.com/fit-in/360x360/e3/bc/e3bcd85377567759874a0664f894a67b.jpg"
+  },
+  {
+    "titulo": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "sinopsis": "La historia de Atticus Finch y sus hijos en la América sureña durante la década de 1930, explorando temas de raza, moralidad y justicia.",
+    "portada": "https://m.media-amazon.com/images/I/71ScCUdhhQL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "titulo": "El señor de los anillos: La comunidad del anillo",
+    "autor": "J.R.R. Tolkien",
+    "sinopsis": "Frodo Bolsón emprende un peligroso viaje para destruir un anillo mágico que amenaza con sumir a la Tierra Media en la oscuridad. Aventura épica y lucha contra el mal.",
+    "portada": "https://pictures.abebooks.com/isbn/9788445076118-es.jpg"
+  },
+  {
+    "titulo": "Crónica de una muerte anunciada",
+    "autor": "Gabriel García Márquez",
+    "sinopsis": "La historia de un asesinato anunciado en un pequeño pueblo latinoamericano, explorando la inevitabilidad del destino y la complejidad de la verdad.",
+    "portada": "https://www.penguinlibros.com/es/2010746-large_default/cronica-de-una-muerte-anunciada-edicion-escolar.jpg"
+  },
+  {
+    "titulo": "El Gran Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "sinopsis": "La historia de Jay Gatsby y su obsesión por recuperar un amor del pasado en la era del jazz de la década de 1920, explorando la decadencia del sueño americano.",
+    "portada": "https://m.media-amazon.com/images/I/41RuMQweBuL.jpg"
+  },
+  {
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafón",
+    "sinopsis": "En la Barcelona de la posguerra, un joven llamado Daniel Sempere descubre un libro misterioso que lo lleva a destapar secretos oscuros y peligrosos.",
+    "portada": "https://m.media-amazon.com/images/I/61zOWUcvMbL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "titulo": "El Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "sinopsis": "La historia de Bilbo Bolsón, un hobbit que se embarca en una aventura inesperada con un grupo de enanos para recuperar un tesoro custodiado por el dragón Smaug.",
+    "portada": "https://m.media-amazon.com/images/I/91v16gReBcL._AC_UF1000,1000_QL80_.jpg"
+  }
+]
